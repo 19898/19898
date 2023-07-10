@@ -1,4 +1,7 @@
-### Hi there 👋
+## Info
+- 😄Hi,I'm 19898
+- 👨‍🎓I'm a student from UJS
+- 🏀My hobby is basketball
 
 <!--
 **19898/19898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
